@@ -1,0 +1,14 @@
+/* index.css */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Global Styles */
+body {
+  background: #eee;
+  font-family: 'Roboto', sans-serif;
+  color: #444;
+  max-width: 960px;
+  margin: 50px auto;
+  padding: 10px;
+}
